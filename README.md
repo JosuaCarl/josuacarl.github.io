@@ -1,11 +1,12 @@
-# josuacarl.github.io
+# Github landing page for Josua Carl
 
 ## Interests
-- Computational Biology / Bioinformatics
-- Mass spectrometry
-- Systems Biology
-- Tabletop RPGs
-- Seals
+- Computational Biology / Bioinformatics 🧪
+- Mass spectrometry 📊
+- Systems Biology 🕸️
+- Tabletop RPGs ✨
+- Seals 🦭
+
 
 ## Projects
 ### [MStoML](https://josuacarl.github.io/MStoML/)
