@@ -3,3 +3,4 @@
 - [ ] [Jenga Spiel](https://www.kaufland.de/product/323770560/?search_value=jenga)
 - [ ] [Star-Crossed](https://bullypulpitgames.com/products/star-crossed)
 - [ ] [Monstress Comics](https://imagecomics.com/comics/series/monstress)
+- [ ] etwas dünnere, aber breite Yogamatte, am liebsten eine alte von euch
